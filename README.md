@@ -1,10 +1,11 @@
-PROJECTNAME
-Objective
-[Brief Objective - Remove this afterwards]
+Elastic Home SIEM Lab
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+[Objective]
+
+In this guide, I’ll walk you through everything I learned while setting up a home lab for Elastic Stack SIEM using the Elastic Web portal and a Kali Linux VM. You’ll see how I configured the Kali VM to generate security events, set up an agent to forward data to the SIEM, and used Elastic’s querying tools to analyze the logs.
 
 Skills Learned
+
 [Bullet Points - Remove this afterwards]
 
 Advanced understanding of SIEM concepts and practical application.
